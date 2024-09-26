@@ -14,7 +14,7 @@ http는 신뢰성 있는 데이터 전송 프로토콜 사용
 - 어떤 종류의 콘텐츠든 가능
     - ex) 기업 판매예측 스프레드 시트 파일, 지역 공공 도서관 서가 탐색 웹 게이트웨이, 인터넷 검색엔진
 
-### 미디어 타입
+ ** 미디어 타입 **
 
 - MIME : 데이터 포맷 라벨
     - Multipurpose Internet Mail Extensions
@@ -26,7 +26,7 @@ http는 신뢰성 있는 데이터 전송 프로토콜 사용
     - 특별한 포맷 → 외부 플러그인 sw
 
 ```
-primary object type / specific object type
+    primary object type / specific object type
 ```
 
 - text/html 라벨
@@ -155,7 +155,7 @@ http/2.0
 ## 웹의 구성요소
 
 - 프록시 : 클라이언트와 서버 사이에 위치한 http 중개자
-- 캐시 : 많이 찾는 웹페이지는 클라이언트 가까이에 보관하는 http ckdrh
+- 캐시 : 많이 찾는 웹페이지는 클라이언트 가까이에 보관하는 http 찬도
 - 게이트웨이 : 다른 앱과 연결된 특별한 웹 서버
 - 터널 :단순히 http 통신을 전달하기만 하는 특별한 프록시
 - 에이전트 : 자동화된 http 요청을 만드는 준지능적 웹클라이언트
